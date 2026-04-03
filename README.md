@@ -1,7 +1,5 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:2d1f7a,100:0d1f2d&height=180&section=header&text=Hyein%20Seo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Robot%20Vision%20·%20CV%20·%20Embedded%20AI&descAlignY=58&descSize=14&animation=fadeIn" width="100%" />
-</div>
+![header](./github_header.png)
 
 <br>
 
@@ -91,4 +89,4 @@ class HyeinSeo:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f2d,50:2d1f7a,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%" />
+![footer](github_footer.png)
