@@ -31,12 +31,12 @@ class HyeinSeo:
 
 | Year | Tier | Competition |
 |:----:|:----:|:------------|
-| 2025 | 🥇 **대상** | COSS 스타트업 경진대회 |
-| 2025 | 🥇 **대상** | 경희대학교 예술적인 소프트웨어 |
-| 2025 | 🥈 **최우수상** | KHUTHON |
-| 2025 | ✦ **인기상** | KHUTHON |
-| 2024 | 🥈 **우수상** | SWCONCONFERENCE |
-| 2024 | ✦ **주니어** | SWCONCONFERENCE |
+| 2025 |  **대상** | COSS 스타트업 경진대회 |
+| 2025 |  **대상** | 경희대학교 예술적인 소프트웨어 |
+| 2025 |  **최우수상** | KHUTHON |
+| 2025 |  **인기상** | KHUTHON |
+| 2024 |  **우수상** | SWCONCONFERENCE |
+| 2024 |  **주니어** | SWCONCONFERENCE |
 
 ---
 
