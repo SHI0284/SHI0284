@@ -97,8 +97,9 @@ class HyeinSeo:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHI0284&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&icon_color=00f2fe&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHI0284&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHI0284&theme=transparent" width="100%" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHI0284&theme=transparent" width="49%" alt="GitHub Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHI0284&theme=transparent" width="49%" alt="GitHub Stats" />
 </div>
 
 <br>
