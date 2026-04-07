@@ -3,25 +3,17 @@
 
 <br>
 
-## `> who am i`
-```python
-class HyeinSeo:
-    university  = "Kyung Hee University"
-    major       = "Software Convergence"
-    grade       = "24학번"
+## Who am I
 
-    interests   = [
-        "Robot Vision",
-        "Computer Vision",
-        "Embedded Systems",
-        "AI + Physical System Integration",
-    ]
+Kyung Hee University, Software Convergence (Class of 2024)
 
-    motto = "단순한 코드를 넘어, 실제로 동작하는 시스템을 만든다"
-```
+Interested in Computer Vision, Robot Vision, Embedded Systems, and AI
 
-> 로봇 시스템, 컴퓨터 비전, 임베디드 분야를 중심으로 프로젝트를 진행하고 있습니다.
-> **AI와 시스템을 결합**하여 실제로 동작하는 결과물을 만드는 것에 큰 관심이 있습니다.
+Focused on building systems where AI meets the physical world
+
+Not just learning theory — implementing real, working systems
+
+Aiming to create solutions that perceive, process, and act
 
 ---
 
