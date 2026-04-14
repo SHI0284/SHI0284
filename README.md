@@ -45,6 +45,8 @@ Aiming to create solutions that perceive, process, and act
 ![Python](https://img.shields.io/badge/Python-0f0f1a?style=flat-square&logo=python&logoColor=85b7eb)
 ![C++](https://img.shields.io/badge/C++-0f0f1a?style=flat-square&logo=cplusplus&logoColor=5dcaa5)
 ![C](https://img.shields.io/badge/C-0f0f1a?style=flat-square&logo=c&logoColor=b4b2a9)
+![C#](https://img.shields.io/badge/C%23-0f0f1a?style=flat-square&logo=dotnet&logoColor=9b59b6)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f0f1a?style=flat-square&logo=Mathworks&logoColor=ff6f00)
 
 **AI · Vision · Robotics**
 ![OpenCV](https://img.shields.io/badge/OpenCV-0f0f1a?style=flat-square&logo=opencv&logoColor=b09cf7)
@@ -58,6 +60,7 @@ Aiming to create solutions that perceive, process, and act
 ![Flask](https://img.shields.io/badge/Flask-0f0f1a?style=flat-square&logo=flask&logoColor=a09dc0)
 ![Flutter](https://img.shields.io/badge/Flutter-0f0f1a?style=flat-square&logo=flutter&logoColor=85b7eb)
 ![Figma](https://img.shields.io/badge/Figma-0f0f1a?style=flat-square&logo=figma&logoColor=ed93b1)
+
 
 ---
 
