@@ -1,5 +1,4 @@
 <!-- Header -->
-![header](./github_header.png)
 
 <br>
 
@@ -84,5 +83,3 @@ Aiming to create solutions that perceive, process, and act
 [![Instagram](https://img.shields.io/badge/@hyenn__seo-0f0f1a?style=flat-square&logo=instagram&logoColor=ed93b1)](https://instagram.com/hyenn_seo)
 
 </div>
-
-![footer](github_footer.png)
