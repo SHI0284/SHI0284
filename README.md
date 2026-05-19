@@ -16,28 +16,7 @@ Aiming to create solutions that perceive, process, and act
 
 ---
 
-## 🏆 Awards
 
-| Year | Tier | Competition |
-|:----:|:----:|:------------|
-| 2025 |  **대상** | COSS 스타트업 경진대회 |
-| 2025 |  **대상** | 경희대학교 예술적인 소프트웨어 |
-| 2025 |  **최우수상** | KHUTHON |
-| 2025 |  **인기상** | KHUTHON |
-| 2025 |  **우수상** | ITS 아이디어톤 대회 |
-| 2024 |  **우수상** | SWCONCONFERENCE |
-| 2024 |  **주니어** | SWCONCONFERENCE |
-
----
-
-## 💼 Experience
-
-| | Role | Org |
-|:--:|:--|:--|
-| 🤖 | **컴퓨터 비전 스터디장** | HYPER 로봇비전 동아리 |
-| 🦁 | **부회장** | 멋쟁이사자처럼 14기 |
-
----
 
 ## 🛠 Tech Stack
 
