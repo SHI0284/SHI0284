@@ -2,17 +2,21 @@
 
 <br>
 
-## Who am I
+## About Me
 
-Kyung Hee University, Software Convergence (Class of 2024)
+Software Engineering Student at Kyung Hee University (Class of 2024)
 
-Interested in Computer Vision, Robot Vision, Embedded Systems, and AI
+Passionate about
 
-Focused on building systems where AI meets the physical world
+- 🚀 Avionics Software
+- 🛰 Space Systems
+- 🤖 Robotics
+- 🔌 Embedded Systems
+- 🧠 Artificial Intelligence
 
-Not just learning theory — implementing real, working systems
+Interested in designing software that connects autonomous robots, embedded platforms, and space technologies.
 
-Aiming to create solutions that perceive, process, and act
+Always eager to learn how intelligent systems perceive, decide, and interact with the physical world.
 
 ---
 
