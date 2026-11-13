@@ -12,6 +12,8 @@ I'm interested in **satellite ground station systems**, especially telemetry pro
 
 I'm also exploring **AI and computer vision**, with an interest in how these techniques can help interpret satellite and mission data.
 
+**Email:** [gpdls0411@khu.ac.kr](mailto:gpdls0411@khu.ac.kr)
+
 ## Interests
 
 <p><img src="assets/interest-ground.svg" height="28" alt="Ground Station Software" /></p>
