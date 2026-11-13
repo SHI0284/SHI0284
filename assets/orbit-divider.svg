@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" aria-hidden="true">
   <defs>
-    <linearGradient id="fade"><stop stop-color="#7DB5F5" stop-opacity="0"/><stop offset=".5" stop-color="#7DB5F5" stop-opacity=".3"/><stop offset="1" stop-color="#7DB5F5" stop-opacity="0"/></linearGradient>
-    <radialGradient id="planet" cx=".3" cy=".25"><stop stop-color="#CBE3FF"/><stop offset=".6" stop-color="#7DB5F5"/><stop offset="1" stop-color="#437BAE"/></radialGradient>
+    <linearGradient id="fade"><stop stop-color="#9B9CC2" stop-opacity="0"/><stop offset=".5" stop-color="#9B9CC2" stop-opacity=".3"/><stop offset="1" stop-color="#9B9CC2" stop-opacity="0"/></linearGradient>
+    <radialGradient id="planet" cx=".3" cy=".25"><stop stop-color="#ECECF6"/><stop offset=".6" stop-color="#9B9CC2"/><stop offset="1" stop-color="#3B3D65"/></radialGradient>
   </defs>
   <path d="M0 66h485M715 66h485" stroke="url(#fade)" stroke-width="1.2"/>
   <g transform="translate(600 66) rotate(-24)">
-    <ellipse rx="72" ry="26" fill="none" stroke="#7DB5F5" stroke-opacity=".7" stroke-width="1.7"/>
+    <ellipse rx="72" ry="26" fill="none" stroke="#9B9CC2" stroke-opacity=".7" stroke-width="1.7"/>
     <circle r="13" fill="url(#planet)"/>
-    <circle cx="65.2" cy="-11" r="4.7" fill="#CBE3FF"/>
+    <circle cx="65.2" cy="-11" r="4.7" fill="#ECECF6"/>
   </g>
-  <path d="M493 35v8M489 39h8M707 88v6M704 91h6" stroke="#7DB5F5" stroke-opacity=".45" stroke-width="1.2"/>
+  <path d="M493 35v8M489 39h8M707 88v6M704 91h6" stroke="#9B9CC2" stroke-opacity=".45" stroke-width="1.2"/>
 </svg>

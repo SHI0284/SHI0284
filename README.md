@@ -65,6 +65,6 @@ Image recognition and learning-based models for practical, data-driven applicati
 ## GitHub Activity
 
 <p><a href="https://github.com/SHI0284?tab=overview"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:7DB5F5/SHI0284" />
-  <img src="https://ghchart.xqsit94.in/light:477EB9/SHI0284" width="100%" alt="GitHub contribution calendar" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:5A5B89/SHI0284" />
+  <img src="https://ghchart.xqsit94.in/light:3B3D65/SHI0284" width="100%" alt="GitHub contribution calendar" />
 </picture></a></p>
