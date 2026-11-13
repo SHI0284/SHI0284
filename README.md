@@ -12,7 +12,7 @@ I'm interested in **satellite ground station systems**, especially telemetry pro
 
 I'm also exploring **AI and computer vision**, with an interest in how these techniques can help interpret satellite and mission data.
 
-**Email:** [gpdls0411@khu.ac.kr](mailto:gpdls0411@khu.ac.kr)
+<p><a href="mailto:gpdls0411@khu.ac.kr"><img src="assets/contact-email.svg" width="224" height="38" alt="Email: gpdls0411@khu.ac.kr" /></a></p>
 
 ## Interests
 

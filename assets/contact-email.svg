@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="38" viewBox="0 0 224 38" role="img" aria-labelledby="title desc">
+  <title id="title">Email Hyein Seo</title>
+  <desc id="desc">gpdls0411@khu.ac.kr, with a blue envelope and little stars.</desc>
+  <defs>
+    <linearGradient id="mail-blue" x2="1" y2=".3"><stop stop-color="#D8EAFF"/><stop offset="1" stop-color="#B8D7FB"/></linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="222.5" height="36.5" rx="18.25" fill="url(#mail-blue)" stroke="#7DB5F5" stroke-width="1.5"/>
+  <circle cx="24" cy="19" r="13" fill="#FFFFFF" fill-opacity=".5"/>
+  <g fill="none" stroke="#356B9C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="14" y="12.5" width="20" height="13" rx="3"/>
+    <path d="m15 14 9 6 9-6M15.5 24l5.5-5M32.5 24l-5.5-5"/>
+  </g>
+  <text x="45" y="23.8" fill="#163453" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" font-weight="600">gpdls0411@khu.ac.kr</text>
+  <path d="m202 8 1.8 4.2L208 14l-4.2 1.8L202 20l-1.8-4.2L196 14l4.2-1.8Z" fill="#629CD7"/>
+  <circle cx="211" cy="24" r="1.5" fill="#629CD7" fill-opacity=".65"/>
+</svg>
