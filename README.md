@@ -1,4 +1,8 @@
-<p><img src="assets/space-signal.svg" width="100%" alt="Space to ground — a blue satellite orbit linked to a ground station" /></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/space-signal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/space-signal-light.svg" />
+  <img src="assets/space-signal.svg" width="100%" alt="Space to ground — satellite and ground station illustration on a transparent background" />
+</picture></p>
 
 ## About Me
 
@@ -55,3 +59,10 @@ Image recognition and learning-based models for practical, data-driven applicati
   <img src="assets/tech-flutter.svg" height="26" alt="Flutter" />
   <img src="assets/tech-figma.svg" height="26" alt="Figma" />
 </p>
+
+## GitHub Activity
+
+<p><a href="https://github.com/SHI0284?tab=overview"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:7DB5F5/SHI0284" />
+  <img src="https://ghchart.xqsit94.in/light:477EB9/SHI0284" width="100%" alt="GitHub contribution calendar" />
+</picture></a></p>
