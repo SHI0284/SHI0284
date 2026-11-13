@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="26" viewBox="0 0 1200 26" aria-hidden="true">
+  <defs><linearGradient id="fade"><stop stop-color="#7DB5F5" stop-opacity="0"/><stop offset=".5" stop-color="#7DB5F5" stop-opacity=".35"/><stop offset="1" stop-color="#7DB5F5" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 13h574M626 13h574" stroke="url(#fade)"/>
+  <ellipse cx="600" cy="13" rx="16" ry="6" transform="rotate(-24 600 13)" fill="none" stroke="#7DB5F5" stroke-opacity=".55" stroke-width=".8"/>
+  <circle cx="600" cy="13" r="3" fill="#7DB5F5"/>
+  <circle cx="614.6" cy="6.5" r="1.6" fill="#A7CFFF"/>
+</svg>

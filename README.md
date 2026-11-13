@@ -1,68 +1,57 @@
-<!-- Header -->
-
-<br>
+<p><img src="assets/space-signal.svg" width="100%" alt="Space to ground — a blue satellite orbit linked to a ground station" /></p>
 
 ## About Me
 
-Software Engineering Student at Kyung Hee University (Class of 2024)
+Hi, I'm **Hyein Seo**, a **Software Convergence** undergraduate at **Kyung Hee University** (enrolled in **2024**).
 
-Passionate about
+I'm interested in **satellite ground station systems**, especially telemetry processing, real-time flight data visualization, and mission monitoring.
 
-- 🚀 Avionics Software
-- 🛰 Space Systems
-- 🤖 Robotics
-- 🔌 Embedded Systems
-- 🧠 Artificial Intelligence
+I'm also exploring **AI and computer vision**, with an interest in how these techniques can help interpret satellite and mission data.
 
-Interested in designing software that connects autonomous robots, embedded platforms, and space technologies.
+## Interests
 
-Always eager to learn how intelligent systems perceive, decide, and interact with the physical world.
+<p><img src="assets/interest-ground.svg" height="28" alt="Ground Station Software" /></p>
 
----
+Telemetry processing, real-time flight data visualization, and mission control tools.
 
+<p><img src="assets/interest-space.svg" height="28" alt="Space Systems" /></p>
 
+Orbital and mission analysis, and how space and ground systems work together.
 
-## 🛠 Tech Stack
+<p><img src="assets/interest-ai.svg" height="28" alt="AI & Computer Vision" /></p>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-0f0f1a?style=flat-square&logo=python&logoColor=85b7eb)
-![C++](https://img.shields.io/badge/C++-0f0f1a?style=flat-square&logo=cplusplus&logoColor=5dcaa5)
-![C](https://img.shields.io/badge/C-0f0f1a?style=flat-square&logo=c&logoColor=b4b2a9)
-![C#](https://img.shields.io/badge/C%23-0f0f1a?style=flat-square&logo=dotnet&logoColor=9b59b6)
-![MATLAB](https://img.shields.io/badge/MATLAB-0f0f1a?style=flat-square&logo=Mathworks&logoColor=ff6f00)
+Image recognition and learning-based models for practical, data-driven applications.
 
-**AI · Vision · Robotics**
-![OpenCV](https://img.shields.io/badge/OpenCV-0f0f1a?style=flat-square&logo=opencv&logoColor=b09cf7)
-![YOLO](https://img.shields.io/badge/YOLO-0f0f1a?style=flat-square&logoColor=f4c0d1)
-![ROS2](https://img.shields.io/badge/ROS2-0f0f1a?style=flat-square&logo=ros&logoColor=5dcaa5)
+<p><img src="assets/orbit-divider.svg" width="100%" alt="" /></p>
 
-**Frontend · Backend · Tools**
-![HTML5](https://img.shields.io/badge/HTML5-0f0f1a?style=flat-square&logo=html5&logoColor=ef9f27)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f1a?style=flat-square&logo=css3&logoColor=85b7eb)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f1a?style=flat-square&logo=javascript&logoColor=fac775)
-![Flask](https://img.shields.io/badge/Flask-0f0f1a?style=flat-square&logo=flask&logoColor=a09dc0)
-![Flutter](https://img.shields.io/badge/Flutter-0f0f1a?style=flat-square&logo=flutter&logoColor=85b7eb)
-![Figma](https://img.shields.io/badge/Figma-0f0f1a?style=flat-square&logo=figma&logoColor=ed93b1)
+## Tech Stack
 
+### Languages
 
----
+<p>
+  <img src="assets/tech-python.svg" height="26" alt="Python" />
+  <img src="assets/tech-cpp.svg" height="26" alt="C++" />
+  <img src="assets/tech-c.svg" height="26" alt="C" />
+  <img src="assets/tech-csharp.svg" height="26" alt="C#" />
+  <img src="assets/tech-matlab.svg" height="26" alt="MATLAB" />
+  <img src="assets/tech-javascript.svg" height="26" alt="JavaScript" />
+</p>
 
-## 📊 GitHub Stats
+### AI & Computer Vision
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHI0284&theme=github_dark" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHI0284&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHI0284&theme=github_dark" width="49%" />
-</div>
+<p>
+  <img src="assets/tech-opencv.svg" height="26" alt="OpenCV" />
+  <img src="assets/tech-yolo.svg" height="26" alt="YOLO" />
+  <img src="assets/tech-mediapipe.svg" height="26" alt="MediaPipe" />
+  <img src="assets/tech-lstm.svg" height="26" alt="LSTM" />
+</p>
 
----
+### Web · App · Tools
 
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/gpdls0411@khu.ac.kr-0f0f1a?style=flat-square&logo=gmail&logoColor=5dcaa5)](mailto:gpdls0411@khu.ac.kr)
-[![GitHub](https://img.shields.io/badge/SHI0284-0f0f1a?style=flat-square&logo=github&logoColor=b09cf7)](https://github.com/SHI0284)
-[![Instagram](https://img.shields.io/badge/@hyenn__seo-0f0f1a?style=flat-square&logo=instagram&logoColor=ed93b1)](https://instagram.com/hyenn_seo)
-
-</div>
+<p>
+  <img src="assets/tech-html.svg" height="26" alt="HTML5" />
+  <img src="assets/tech-css.svg" height="26" alt="CSS3" />
+  <img src="assets/tech-flask.svg" height="26" alt="Flask" />
+  <img src="assets/tech-flutter.svg" height="26" alt="Flutter" />
+  <img src="assets/tech-figma.svg" height="26" alt="Figma" />
+</p>
